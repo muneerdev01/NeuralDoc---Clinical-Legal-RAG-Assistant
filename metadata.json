@@ -1,0 +1,7 @@
+{
+  "name": "NeuralDoc - Clinical & Legal RAG Assistant",
+  "description": "Document intelligence and RAG assistant for clinical and legal documents with pgvector semantic search and hallucination guardrails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
